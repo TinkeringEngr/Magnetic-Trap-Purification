@@ -1,2 +1,2 @@
-# MTP
-Magnetic Trap Purification
+# Magnetic Trap Purification (MTP)
+
