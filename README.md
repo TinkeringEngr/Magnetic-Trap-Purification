@@ -11,6 +11,7 @@ Magnetic Trap Purification (MTP) is a novel method/apparatus on a tried and true
 
 <p align="center">
 Protocol Walkthrough: https://www.youtube.com/watch?v=efe5PQnb2tk
+<br>
 Order: tinyurl.com/vvvw4u3x
 </p>
 
