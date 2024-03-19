@@ -13,7 +13,8 @@ Magnetic Trap Purification (MTP) is a novel method/apparatus developed on a trie
 Protocol Walkthrough: https://www.youtube.com/watch?v=efe5PQnb2tk
 <br><br>
 Order: https://tinyurl.com/vvvw4u3x
-</p>
-
 <br><br>
 Patent Pending #63/581,399
+
+</p>
+
